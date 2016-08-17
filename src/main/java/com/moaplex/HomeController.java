@@ -14,4 +14,8 @@ public class HomeController {
         return "Helloworld";
     }
 
+    @RequestMapping("/joinmember")
+    public void test2() {
+
+    }
 }
